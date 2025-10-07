@@ -1,2 +1,1 @@
-# cancerDetection
-un model à l'aide du ML qui détecte les cancers à l'avance
+**Learn to build three machine learning models (Logic Regression, Decision tree, Random forest) from scratch**
