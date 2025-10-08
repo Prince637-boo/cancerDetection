@@ -13,10 +13,14 @@ We will use the Breast Cancer Wisconsin (Diagnostic) Data Set from Kaggle.
 
 In thiscours you will be taught through these steps:
 
--Setion1 : Loading Dataset
+**Setion1** : Loading Dataset
 -  Introduction and Import Libraires
 -  Download Dataset directly from Kaggle
 -  2nd Way To Load Data To Colab
    
--section2: EDA-Exploratory Data Analysis
--  Checking the total number of rows and colums
+**section2** : EDA-Exploratory Data Analysis
+-  Checking the total number of rows and columns
+-  Checking the colums and their corresponding data types(along with finding whether they contain null values or not)
+-  2nd way to check for null values
+-  Dropping the column with all missing values
+-  Cheking datatypes 
