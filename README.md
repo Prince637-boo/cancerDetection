@@ -23,4 +23,7 @@ In thiscours you will be taught through these steps:
 -  Checking the colums and their corresponding data types(along with finding whether they contain null values or not)
 -  2nd way to check for null values
 -  Dropping the column with all missing values
--  Cheking datatypes 
+-  Cheking datatypes
+
+**section3** : Visualisation
+-  Display A count of malignat(M) or benign (B) cells 
