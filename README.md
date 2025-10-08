@@ -8,3 +8,14 @@ We will use the Breast Cancer Wisconsin (Diagnostic) Data Set from Kaggle.
 **Prerequisite**
 
 *You should be familiar with the Python Programming language and you should have a theoretical understanding of the three algorithms that is Logistic regression model, Decision Tree model, and Random Forest Classifier model.*
+
+**Learn step-by-step**
+
+In thiscours you will be taught through these steps:
+
+-Setion1 : Loading Dataset
+-  Introduction and Import Libraires
+-  Download Dataset directly from Kaggle
+-  2nd Way To Load Data To Colab
+-section2: EDA-Exploratory Data Analysis
+-  Checking the total number of rows and colums
