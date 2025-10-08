@@ -26,4 +26,6 @@ In thiscours you will be taught through these steps:
 -  Cheking datatypes
 
 **section3** : Visualisation
--  Display A count of malignat(M) or benign (B) cells 
+-  Display A count of malignat(M) or benign (B) cells
+-  Visualisation the counts of both cells
+-  Perform LabelEencoding-Encode the 'diagnosis' column or categorical data values
