@@ -17,5 +17,6 @@ In thiscours you will be taught through these steps:
 -  Introduction and Import Libraires
 -  Download Dataset directly from Kaggle
 -  2nd Way To Load Data To Colab
+   
 -section2: EDA-Exploratory Data Analysis
 -  Checking the total number of rows and colums
