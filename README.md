@@ -34,4 +34,8 @@ In thiscours you will be taught through these steps:
 -  Scaling the dataset-Feature scaling
 
 **section5** : Create function for three different models
--  
+-  Bulding Logistic Regression classifier
+-  Bulding Decision tree classifier
+-  Bulding Random forest classifier
+
+**section6** : 
