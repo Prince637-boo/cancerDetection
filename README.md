@@ -33,4 +33,5 @@ In thiscours you will be taught through these steps:
 **section4** : Dataset manipulation on ML algorithms
 -  Scaling the dataset-Feature scaling
 
-**section5** : Create function for
+**section5** : Create function for three different models
+-  
