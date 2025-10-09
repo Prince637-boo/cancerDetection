@@ -29,3 +29,8 @@ In thiscours you will be taught through these steps:
 -  Display A count of malignat(M) or benign (B) cells
 -  Visualisation the counts of both cells
 -  Perform LabelEencoding-Encode the 'diagnosis' column or categorical data values
+
+**section4** : Dataset manipulation on ML algorithms
+-  Scaling the dataset-Feature scaling
+
+**section5** : Create function for
