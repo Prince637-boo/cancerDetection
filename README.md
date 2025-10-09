@@ -38,4 +38,7 @@ In thiscours you will be taught through these steps:
 -  Bulding Decision tree classifier
 -  Bulding Random forest classifier
 
-**section6** : 
+**section6** : Evaluate the performance of the model 
+-  Evaluate the performance of the model
+-  Model Accuracy on confudion Matrix
+-  Model prediction VS actual prediction
