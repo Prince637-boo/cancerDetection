@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-orange)](https://scikit-learn.org/)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-green)](https://www.kaggle.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+
 
 **Learn to build Logistic Regression, Decision Tree, and Random Forest models from scratch** using Scikit-learn to classify breast cancer as either Malignant or Benign.
 
@@ -68,4 +68,4 @@ In thiscours you will be taught through these steps:
 -  Model prediction VS actual prediction
 
 **Contact**
-  For questions or feedback, open an issue or contact me at [![email](i8674333@gmail.com.)
+  For questions or feedback, open an issue or contact me at ![email](i8674333@gmail.com.)
