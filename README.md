@@ -28,8 +28,8 @@ We use the **Breast Cancer Wisconsin (Diagnostic) Dataset** from Kaggle.
 ## 🛠 Installation
 Clone this repository and install the required packages:
 ```bash
-git clone https://github.com/votre-utilisateur/breast-cancer-ml.git
-cd breast-cancer-ml
+git clone https://github.com/Prince637-boo/cancerDetection
+cd 
 pip install -r requirements.txt
 ```
 
