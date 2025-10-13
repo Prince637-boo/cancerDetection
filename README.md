@@ -29,7 +29,7 @@ We use the **Breast Cancer Wisconsin (Diagnostic) Dataset** from Kaggle.
 Clone this repository and install the required packages:
 ```bash
 git clone https://github.com/Prince637-boo/cancerDetection
-cd 
+cd cancerDetection
 pip install -r requirements.txt
 ```
 
