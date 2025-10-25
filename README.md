@@ -68,4 +68,4 @@ In thiscours you will be taught through these steps:
 -  Model prediction VS actual prediction
 
 **Contact**
-  For questions or feedback, open an issue or contact me at ![email](i8674333@gmail.com.)
+  For questions or feedback, open an issue or contact me at ![My email](i8674333@gmail.com.)
